@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class main extends MovieClip {						public function main() {		public function get smoothing():Boolean 		public function set smoothing(value:Boolean):void		}	}	}
